@@ -1,3 +1,5 @@
+Note: Currently the only difference from the original repo is that the imports are adjusted to work with tensorflow 2.0.
+
 # keras_lr_finder
 Plots the change of the loss function of a Keras model when the learning rate is exponentially increasing.
 ## Purpose
